@@ -1,0 +1,31 @@
+/ProyectosVBA
+   ├── 1. ModulosGenerales
+   │    ├── FuncionesComunes.bas
+   │    ├── MacrosGenerales.bas
+   │    └── README.md
+   │
+   ├── 2. ScriptsGlobales
+   │    ├── ExportarModulosGlobal.ps1
+   │    ├── FusionarModulos.ps1
+   │    ├── ImportarModulosGlobal.ps1
+   │    └── README.md
+   │
+   ├── Proyecto1
+   │    ├── ArchivosExcel
+   │    │    ├── Datos_Proyecto1.xlsx
+   │    │    └── Plantilla_Proyecto1.xlsm
+   │    ├── Modulos
+   │    │    ├── ClaseGestion.cls
+   │    │    ├── FuncionesUtiles.bas
+   │    │    ├── ModuloPrincipal.bas
+   │    │    └── UserForm1.frm
+   │    ├── Scripts
+   │    │    ├── ExportarModulos.vbs
+   │    │    ├── ImportarModulos.vbs
+   │    ├── README.md
+   │    └── .gitignore
+   │
+   ├── Proyecto2...
+   │
+   ├── README.md
+   └── .gitignore
